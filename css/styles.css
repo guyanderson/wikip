@@ -1,0 +1,14 @@
+.sidebar{
+  float: left;
+  width:160px;
+  height: 200px;
+  border: 2px;
+  border-color: black;
+  border-style: dotted;
+}
+.container{
+  padding-left:0px;
+  border-style: dotted;
+  border: 100px;
+  border-color: black;
+}
