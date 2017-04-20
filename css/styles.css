@@ -1,14 +1,9 @@
-.sidebar{
-  float: left;
-  width:160px;
-  height: 200px;
-  border: 2px;
-  border-color: black;
-  border-style: dotted;
-}
 .container{
+  margin-left: 0px;
   padding-left:0px;
-  border-style: dotted;
-  border: 100px;
-  border-color: black;
+  width: 1920px;
+  height: 1000px;
+}
+.col-md-3{
+  padding: 0;
 }
